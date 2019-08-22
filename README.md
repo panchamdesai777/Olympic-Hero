@@ -1,6 +1,8 @@
 # Olympic-Hero
 Throughout this project, I had explored the Olympics dataset to look at some interesting statistics and then try to find out which country is the King of Olympic Games.
 
+![Alt Text](https://static.wixstatic.com/media/72aa8f_e784bdc574d14909b78f119ca42a77e4~mv2_d_3300_1764_s_2.jpg)
+
 ## About the dataset
 * The dataset has details of 146 countries with following 16 features:
 * Feature	Description
